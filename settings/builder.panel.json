@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.chatting",
+  "platform": "web-desktop",
+  "startScene": "1c3f0d99-dc17-4868-99a8-c73f62721b4b",
+  "title": "chatting"
+}
